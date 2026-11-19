@@ -1,3 +1,0 @@
-[INFO] 2026-11-19 18:13:38 - Sistema Software FJ iniciado.
-[INFO] 2026-11-19 18:14:48 - Sistema cerrado.
-[INFO] 2026-11-19 18:16:19 - Sistema Software FJ iniciado.
